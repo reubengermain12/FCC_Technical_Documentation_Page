@@ -74,3 +74,10 @@ code {
   margin: 10px;
   border-radius: 5px;
 }
+@media only screen and (max-width: 815px) {
+  /* For mobile phones: */
+  #navbar ul {
+    border: 1px solid;
+    height: 207px;
+  }
+}
