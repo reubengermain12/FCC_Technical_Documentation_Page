@@ -53,3 +53,8 @@ header {
   padding: 20px;
   margin-bottom: 110px;
 }
+section article {
+  color: #4d4e53;
+  margin: 15px;
+  font-size: 0.96em;
+}
